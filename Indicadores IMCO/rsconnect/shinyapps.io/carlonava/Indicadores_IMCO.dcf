@@ -1,0 +1,13 @@
+name: Indicadores_IMCO
+title: Indicadores_IMCO
+username:
+account: carlonava
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4166597
+bundleId: 4630433
+url: https://carlonava.shinyapps.io/Indicadores_IMCO/
+when: 1621786543.60955
+lastSyncTime: 1621786543.60955
+asMultiple: FALSE
+asStatic: FALSE
